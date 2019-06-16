@@ -1,0 +1,16 @@
+{
+  "name": "grid-by-example",
+  "version": "0.0.1",
+  "description": "This is a project by Rachel Andrew.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "grid",
+    "layout"
+  ],
+  "author": "Rachel Andrew",
+  "license": "ISC"
+}
