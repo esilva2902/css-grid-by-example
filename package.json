@@ -1,6 +1,6 @@
 {
   "name": "grid-by-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a project by Rachel Andrew.",
   "main": "index.js",
   "scripts": {
